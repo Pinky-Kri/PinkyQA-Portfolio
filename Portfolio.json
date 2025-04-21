@@ -1,0 +1,56 @@
+{
+  "name": "Pinky Kumari",
+  "role": "Software Tester",
+  "email": "pinkykri005@gmail.com",
+  "location": "Patna, Bihar, India",
+  "linkedin": "https://www.linkedin.com/in/pinkykri",
+  "portfolio": "https://pinky-kri.github.io/PinkyQA-Portfolio/",
+  "skills": [
+    "Manual Testing",
+    "API Testing",
+    "Automation Testing",
+    "Selenium WebDriver",
+    "Postman",
+    "SQL",
+    "Bug Reporting",
+    "Test Case Design"
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Website Testing",
+      "type": "Live Project",
+      "tools": ["Jira", "TestLink", "Postman", "Selenium", "Excel"],
+      "test_cases": 20,
+      "bugs_reported": 10,
+      "api_testing": true,
+      "automation_scripts": ["Login", "Search Function"]
+    },
+    {
+      "name": "HRMS (OrangeHRM) Testing",
+      "type": "Web Application",
+      "tools": ["Bugzilla", "Excel", "Selenium"],
+      "test_cases": 10,
+      "bugs_reported": 5,
+      "automation_scripts": ["Login", "Leave Module"]
+    },
+    {
+      "name": "Online Banking System",
+      "type": "Self Project",
+      "focus": "Functional Testing and SQL",
+      "sql_queries_used": ["SELECT", "JOIN", "GROUP BY"],
+      "test_scenarios": ["Login", "Fund Transfer", "Account Creation"]
+    },
+    {
+      "name": "API Testing Practice",
+      "tools": ["Postman"],
+      "platforms": ["ReqRes", "Restful-Booker"],
+      "methods_tested": ["GET", "POST", "PUT", "DELETE"]
+    }
+  ],
+  "certifications": [
+    "Manual Testing – Udemy",
+    "Live Project in Manual Testing – Udemy",
+    "Automation Testing with Selenium (Java) – Udemy",
+    "SQL for Testers – Udemy"
+  ]
+}
