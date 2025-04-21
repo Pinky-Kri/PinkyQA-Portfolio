@@ -1,0 +1,41 @@
+{
+    "testCases": [
+        {
+            "testCaseID": "TC001",
+            "testCaseDescription": "Verify login functionality with valid credentials",
+            "testSteps": [
+                "Open the browser",
+                "Go to login page",
+                "Enter valid username and password",
+                "Click the login button"
+            ],
+            "expectedResult": "User should be logged in successfully",
+            "actualResult": "User logged in successfully",
+            "status": "Pass"
+        },
+        {
+            "testCaseID": "TC002",
+            "testCaseDescription": "Verify login functionality with invalid credentials",
+            "testSteps": [
+                "Open the browser",
+                "Go to login page",
+                "Enter invalid username or password",
+                "Click the login button"
+            ],
+            "expectedResult": "User should see an error message indicating invalid credentials",
+            "actualResult": "Error message displayed as expected",
+            "status": "Pass"
+        },
+        {
+            "testCaseID": "TC003",
+            "testCaseDescription": "Verify logout functionality",
+            "testSteps": [
+                "Login to the application with valid credentials",
+                "Click the logout button"
+            ],
+            "expectedResult": "User should be logged out and redirected to the login page",
+            "actualResult": "User logged out and redirected to the login page",
+            "status": "Pass"
+        }
+    ]
+}
