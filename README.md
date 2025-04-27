@@ -39,7 +39,7 @@ Welcome to my **Quality Assurance (QA) Portfolio** repository. This repository s
 
 To get started with the portfolio, you can download the following files that showcase the test cases, bug reports, API collections, and other documentation:
 
-- **[Download Resume](https://github.com/Pinky-Kri/PinkyQA-Portfolio/blob/main/PinkykriQAresume2025.pdf)**: My detailed resume showcasing my experience and qualifications.
+- **[Download Resume](https://github.com/Pinky-Kri/PinkyQA-Portfolio/blob/main/PINKYKUMARIQARESUME.pdf)**: My detailed resume showcasing my experience and qualifications.
 - **[Download E-commerce Test Cases](https://github.com/Pinky-Kri/PinkyQA-Portfolio/blob/main/Ecommerce_TestCasesQA.xlsx)**: Test cases used for testing the e-commerce website.
 - **[Download Bug Report (Manual + Automation)](https://github.com/Pinky-Kri/PinkyQA-Portfolio/blob/main/Bugreport_manual%20_Automation.xlsx)**: Bug reports for manual and automation testing of various projects.
 - **[Download API Test Cases](https://github.com/Pinky-Kri/PinkyQA-Portfolio/blob/main/API_TestCases_PinkyQA.xlsx)**: API test cases used in the testing projects.
